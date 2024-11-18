@@ -1,0 +1,20 @@
+.alert {
+    padding: 15px;
+    background-color: #f8d7da;
+    border: 1px solid pink;
+    border-radius: 5px;
+    width: 700px;
+    margin: auto;
+    display: none;
+    text-align: center;
+}
+
+.close-btn{
+    background-color:  #ebafb5;
+    border: none;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
